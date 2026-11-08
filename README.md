@@ -91,7 +91,7 @@ For the complete topic-wise progress and learning log, see:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Tonysunny0201/redux-toolkit-learning-journey.git
 ```
 
 ### 2. Navigate to a practice project
